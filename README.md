@@ -1,4 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=TenEplaysOfficial&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=TenEplaysOfficial&icon=0&color=0)](https://github.com/TenEplaysOfficial/)
 <!--
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCMC6maGQfHNhrWwDH0GRDKA)
 ![GitHub followers](https://img.shields.io/github/followers/TenEplaysOfficial)![Twitch Status](https://img.shields.io/twitch/status/TenEplays)
