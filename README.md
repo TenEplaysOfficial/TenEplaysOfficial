@@ -25,4 +25,9 @@ Here are some ideas to get you started:
 - [package.json](https://dev.to/tene/packagejson-dhf)
 <!-- BLOG-POST-LIST:END -->
 
+## Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=TenEplaysOfficial&style=for-the-badge)
