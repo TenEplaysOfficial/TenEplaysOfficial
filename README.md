@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Skills
+
+![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,aws,astro,react,azure,bash,bootstrap,bun,c,cpp,md,nextjs,notion,nodejs,npm,py,svelte,svg,tailwind,vite,vscode,)
+
 ## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -25,4 +29,11 @@ Here are some ideas to get you started:
 - [package.json](https://dev.to/tene/packagejson-dhf)
 <!-- BLOG-POST-LIST:END -->
 
+## Stats
+
+![teneplaysofficial's Stats](https://github-readme-stats.vercel.app/api?username=teneplaysofficial&theme=blueberry&show_icons=true&hide_border=true&count_private=false)
+![teneplaysofficial's Streak](https://github-readme-streak-stats.herokuapp.com/?user=teneplaysofficial&theme=blueberry&hide_border=true)
+![teneplaysofficial's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=teneplaysofficial&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
+
+<!-- Profile view counter -->
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=TenEplaysOfficial&style=for-the-badge)
