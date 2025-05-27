@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Skills
 
-![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,aws,astro,react,azure,bash,bootstrap,bun,c,cpp,md,nextjs,notion,nodejs,npm,py,svelte,svg,tailwind,vite,vscode,)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,aws,astro,react,azure,bash,bootstrap,bun,c,cpp,md,nextjs,notion,nodejs,npm,py,svelte,svg,tailwind,vite,vscode,mongodb,mysql,git,express)
 
 ## Blog posts
 
